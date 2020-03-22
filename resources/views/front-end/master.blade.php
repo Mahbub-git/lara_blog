@@ -1,0 +1,5 @@
+@include('front-end.includes.header')
+@include('front-end.includes.slider')     
+@yield('body')
+@include('front-end.includes.sidebar')      
+@include('front-end.includes.footer')
